@@ -774,5 +774,6 @@ export default defineConfigWithTheme<ThemeConfig>({
     json: {
       stringify: true
     }
-  }
+  },
+  base: '/docs-fa/',
 })
